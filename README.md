@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=10" width="100%"/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=shark&color=0:0098EA,100:7B2FBE&height=300&section=header&text=Zangar%20%2F%20zng0x&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=%E2%97%8F%20Blockchain%20Engineer%20%20%E2%97%8F%20AI%20Agent%20Developer%20%20%E2%97%8F%20TON%20Ecosystem&descSize=14&descAlignY=68&animation=twinkling"/>
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0098EA,100:7B2FBE&height=300&section=header&text=Zangar%20%2F%20zng0x&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=%E2%97%8F%20Blockchain%20Engineer%20%20%E2%97%8F%20AI%20Agent%20Developer%20%20%E2%97%8F%20TON%20Ecosystem&descSize=14&descAlignY=68&animation=twinkling" width="100%"/>
 </picture>
 
@@ -17,11 +14,11 @@
 
 <a href="https://t.me/znkkka1"><img src="https://img.shields.io/badge/-@znkkka1-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/-TON%20Ecosystem-0098EA?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TON%20Ecosystem-0098EA?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-7%20Hackathons%20Won%20🏆-FFD700?style=flat-square&labelColor=1a1a2e&color=FFD700"/>
+<img src="https://img.shields.io/badge/-7%20Hackathons%20🏆-FFD700?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-10%2B%20Years-7B2FBE?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-10%2B%20Years-7B2FBE?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/-Kazakhstan%20🇰🇿-2ECC71?style=flat-square"/>
 
@@ -33,17 +30,13 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=zng0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0098EA&icon_color=7B2FBE&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
-
-- 🔭 &nbsp; Building **[TON Consensus](https://github.com/WorkHackathons/ton-consensus)** — AI P2P betting on TON
+- 🔭 &nbsp; Building **[TON Consensus](https://github.com/WorkHackathons/ton-consensus)** — AI-powered P2P betting on TON
 - 🌱 &nbsp; Deep in **AI Agents**, **DeFi protocols**, **Telegram Mini Apps**
 - 🏆 &nbsp; Won **7 international hackathons** · **$38,000+** in prizes
 - ⚡ &nbsp; **10+ years** shipping production blockchain systems
 - 🌍 &nbsp; Based in **Kazakhstan**, building for the world
 - 💬 &nbsp; Ask me about **TON**, **AI Agents**, **Smart Contracts**
 - 📬 &nbsp; Reach me → **[@znkkka1](https://t.me/znkkka1)** on Telegram
-
-<br/><br/><br/>
 
 ---
 
@@ -116,12 +109,38 @@
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;My Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zng0x&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0098EA&text_color=c9d1d9"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com?user=zng0x&theme=tokyonight&hide_border=true&background=0d1117&stroke=0098EA&ring=7B2FBE&fire=FF6B6B&currStreakLabel=0098EA&dates=8b949e"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Total%20Commits-3%2C847-0098EA?style=for-the-badge&labelColor=0d1117"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repositories-40%2B-7B2FBE?style=for-the-badge&labelColor=0d1117"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Stars%20Earned-280%2B-FFD700?style=for-the-badge&labelColor=0d1117"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Chains%20Deployed-4-2ECC71?style=for-the-badge&labelColor=0d1117"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Languages & Focus Areas**
+
+| Area | Share |
+|------|-------|
+| ⛓ Blockchain / Web3 | `████████████████████████░░░░░░` 45% |
+| 🤖 AI & LLM Systems | `████████████████░░░░░░░░░░░░░░` 28% |
+| 🔧 Backend / APIs | `██████████░░░░░░░░░░░░░░░░░░░░` 17% |
+| 🏗 DevOps / Infra | `██████░░░░░░░░░░░░░░░░░░░░░░░░` 10% |
+
 </div>
 
 ---
@@ -148,7 +167,7 @@
 ### 💬 &nbsp;Let's build something great together
 
 <a href="https://t.me/znkkka1">
-  <img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-@znkkka1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Message%20me-@znkkka1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <br/><br/>
