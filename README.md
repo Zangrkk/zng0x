@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@znkkka1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/znkkka1)
 [![TON](https://img.shields.io/badge/Built%20on-TON-0098EA?style=for-the-badge)](https://ton.org)
 [![Hackathons](https://img.shields.io/badge/Hackathons%20Won-7-FFD700?style=for-the-badge)](https://github.com/zng0x)
-[![Years](https://img.shields.io/badge/Experience-10%2B%20years-7B2FBE?style=for-the-badge)](https://github.com/zng0x)
+[![Experience](https://img.shields.io/badge/Experience-10%2B%20years-7B2FBE?style=for-the-badge)](https://github.com/zng0x)
 
 </div>
 
@@ -43,9 +43,9 @@ const zng0x = {
   ],
 
   achievements: {
-    hackathons_won:  7,
+    hackathons_won:   7,
     projects_shipped: 40,
-    chains_deployed: ["TON", "ETH", "BNB", "Solana"],
+    chains_deployed:  ["TON", "ETH", "BNB", "Solana"],
   },
 
   motto: "Build fast. Ship on-chain. Win."
@@ -60,15 +60,17 @@ const zng0x = {
 
 <div align="center">
 
-| Year | Hackathon | Prize | Track |
-|------|-----------|-------|-------|
-| 🥇 2026 | **TON AI Hackathon** | $10,000 | User-Facing AI Agents |
-| 🥇 2025 | **TON Grants — Agent Tooling** | $8,000 | Infrastructure |
-| 🥈 2025 | **ETHGlobal Bangkok** | $5,000 | DeFi & Payments |
-| 🥇 2024 | **TON Ecosystem Hackathon** | $6,000 | Telegram Mini Apps |
-| 🥈 2024 | **Solana Breakpoint Hackathon** | $4,000 | Consumer Apps |
-| 🥇 2023 | **BNB Chain Innovation** | $3,000 | Smart Contracts |
-| 🥉 2023 | **ETHGlobal Paris** | $2,000 | Infrastructure |
+| | Year | Hackathon | Prize | Track |
+|--|------|-----------|-------|-------|
+| 🥇 | 2026 | **TON AI Hackathon** | $10,000 | User-Facing AI Agents |
+| 🥇 | 2025 | **TON Grants — Agent Tooling** | $8,000 | Infrastructure |
+| 🥈 | 2025 | **ETHGlobal Bangkok** | $5,000 | DeFi & Payments |
+| 🥇 | 2024 | **TON Ecosystem Hackathon** | $6,000 | Telegram Mini Apps |
+| 🥈 | 2024 | **Solana Breakpoint Hackathon** | $4,000 | Consumer Apps |
+| 🥇 | 2023 | **BNB Chain Innovation** | $3,000 | Smart Contracts |
+| 🥉 | 2023 | **ETHGlobal Paris** | $2,000 | Infrastructure |
+
+**Total prize money earned: $38,000+** 💰
 
 </div>
 
@@ -85,10 +87,10 @@ const zng0x = {
 ║  First P2P dispute platform in Telegram with AI arbitration  ║
 ║  Auto-payouts via TON blockchain · @ton/mcp official stack   ║
 ║                                                              ║
-║  🤖 AI Arbiter (Perplexity Sonar · confidence >85%)          ║
-║  ⚖️  Oracle System (3 arbiters · reputation scoring)         ║
-║  💎 Live txhash on tonscan · Real escrow · Auto-payout       ║
-║  📱 Telegram Mini App · TON Connect 2.0                      ║
+║  🤖 AI Arbiter  →  Perplexity Sonar · confidence > 85%       ║
+║  ⚖️  Oracle     →  3 arbiters · reputation scoring           ║
+║  💎 Blockchain  →  Live txhash on tonscan · Auto-payout      ║
+║  📱 Interface   →  Telegram Mini App · TON Connect 2.0       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -133,12 +135,12 @@ const zng0x = {
 
 <div align="center">
 
-```
-█████████████████████████████████████████  Blockchain / Web3   45%
-████████████████████████████               AI & LLM Systems    28%
-████████████████                           Backend / APIs       17%
-██████                                     DevOps / Infra       10%
-```
+| Area | Progress | Percent |
+|------|----------|---------|
+| Blockchain / Web3 | ![45%](https://progress-bar.xyz/45/?scale=100&title=&width=300&color=0098EA&suffix=%) | 45% |
+| AI & LLM Systems | ![28%](https://progress-bar.xyz/28/?scale=100&title=&width=300&color=7B2FBE&suffix=%) | 28% |
+| Backend / APIs | ![17%](https://progress-bar.xyz/17/?scale=100&title=&width=300&color=3FB950&suffix=%) | 17% |
+| DevOps / Infra | ![10%](https://progress-bar.xyz/10/?scale=100&title=&width=300&color=FF6B6B&suffix=%) | 10% |
 
 **Total commits (all time): 3,847** · **Repositories: 40+** · **Stars earned: 280+**
 
@@ -163,11 +165,12 @@ const zng0x = {
 
 ---
 
-### 💬 Random Dev Quote
+### 💬 Quote
 
 <div align="center">
 
-> *"The best smart contract is the one that's already been audited, deployed, and is making someone money."*
+> *"The best smart contract is the one that's already audited, deployed, and making someone money."*
+>
 > — zng0x
 
 </div>
